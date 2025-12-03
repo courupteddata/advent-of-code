@@ -1,0 +1,5 @@
+target/
+cargo.lock
+
+# Don't want to add puzzle input
+input.txt
